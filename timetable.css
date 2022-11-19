@@ -1,0 +1,89 @@
+
+
+h1{
+    
+    width: 30vw;
+   margin: inherit;
+
+}
+
+.cool td{
+    width: 160px;
+}
+
+#a{
+    background-color: rgb(234, 25, 25);
+    font-weight: bold;
+    font-size:30px;
+    color: navy;
+
+    text-align: center;
+}
+#a2,#b2,#c2{
+    background-color: rgb(242, 250, 13);
+    font-weight: bold;
+    font-size:30px;
+    color: navy;
+
+    text-align: center;
+}
+
+#b, #c{
+    background-color: rgb(250, 154, 90);
+    font-weight: bold;
+    font-size:30px;
+    color: navy;
+
+    text-align: center;
+}
+#d{
+   background-color: white;
+   font-weight: bold;
+   font-size:30px;
+   color: black;
+
+   text-align: center;
+}
+#e, #f{
+    background-color:rgb(34, 236, 243);
+    font-weight: bold;
+    font-size:30px;
+    color: rgb(247, 1, 1);
+    text-align: center;
+
+}
+
+#g, #h, #i, #j, #k,#l{
+    background-color:white;
+    font-weight: bold;
+    font-size:30px;
+    color: black;
+    text-align: center;
+    visibility: hidden;
+}
+
+td{
+    border: 2px solid black;
+}
+
+.cool td {
+
+    background-color:aliceblue;
+}
+
+.top td {
+    background-color: rgb(157, 162, 219);
+    height: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+.back{
+    color: blue;
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+}

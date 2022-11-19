@@ -1,0 +1,32 @@
+table *{
+    border: 2px solid black;
+    border-radius 50%;
+}
+
+.top{
+    height: 70px;
+    font-weight: bold;
+    font-size: 55px;
+}
+#b, #c{
+    background-color: rgb(250, 154, 90);
+    
+    height: 180px;
+    font-weight: bold;
+    font-size:30px;
+    color: navy;
+
+    text-align: center;
+}
+.start{
+    color: green;
+}
+.end{
+    color: red;
+}
+.back{
+    color: blue;
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-end;
+}
