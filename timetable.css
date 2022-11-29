@@ -27,6 +27,15 @@ h1{
 
     text-align: center;
 }
+#d2{
+    
+    font-weight: bold;
+    font-size:30px;
+    color: navy;
+    
+
+    text-align: center;
+}
 
 #b, #c{
     background-color: rgb(250, 154, 90);
@@ -36,6 +45,7 @@ h1{
 
     text-align: center;
 }
+
 #d{
    background-color: white;
    font-weight: bold;
@@ -44,16 +54,8 @@ h1{
 
    text-align: center;
 }
-#e, #f{
-    background-color:rgb(34, 236, 243);
-    font-weight: bold;
-    font-size:30px;
-    color: rgb(247, 1, 1);
-    text-align: center;
 
-}
-
-#g, #h, #i, #j, #k,#l{
+#e, #f, #g, #h, #i, #j, #k,#l{
     background-color:white;
     font-weight: bold;
     font-size:30px;
