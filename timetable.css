@@ -19,7 +19,7 @@ h1{
 
     text-align: center;
 }
-#a2,#b2,#c2{
+#a2,#b2,#c2,#l2{
     background-color: rgb(242, 250, 13);
     font-weight: bold;
     font-size:30px;
@@ -32,10 +32,17 @@ h1{
     font-weight: bold;
     font-size:30px;
     color: navy;
-    
-
     text-align: center;
 }
+#e2,#f2,#g2,#h2,#i2,#j2,#k2{
+    
+    font-weight: bold;
+    font-size:30px;
+    color: navy;
+    text-align: center;
+    visibility: hidden;
+}
+
 
 #b, #c{
     background-color: rgb(250, 154, 90);
@@ -55,13 +62,21 @@ h1{
    text-align: center;
 }
 
-#e, #f, #g, #h, #i, #j, #k,#l{
+#e, #f, #g, #h, #i, #j, #k{
     background-color:white;
     font-weight: bold;
     font-size:30px;
     color: black;
     text-align: center;
     visibility: hidden;
+}
+#l{
+    height: 156.734px;
+    width: 170px;
+}
+#l img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
 td{
